@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science graduate with strong knowledge of Python, SQL, cloud fundamentals, and database management. <br>Passionate about GenAI, developing distributed systems and process automation.<br>Hands-on experience in software development, API integration, AWS Cloud, and Git version control. <br>Strong analytical, problem-solving, and communication skills with a willingness to learn & explore technologies.
+Computer Science & Business Systems graduate with strong knowledge of Python, SQL, cloud fundamentals, and database management. <br>Passionate about GenAI, developing distributed systems and process automation.<br>Hands-on experience in software development, API integration, AWS Cloud, and Git version control. <br>Strong analytical, problem-solving, and communication skills with a willingness to learn & explore technologies.
 
 
 ## 🌐 Socials:
